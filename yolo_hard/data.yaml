@@ -1,6 +1,0 @@
-train: ../data/yolo_hard/training/images
-val: ../data/yolo_hard/validation/images
-test : ../data/yolo_hard/test/images
-
-nc: 6
-names: ['alcohol', 'insulting gesture', 'blood', 'cigarette', 'gun', 'knife']
